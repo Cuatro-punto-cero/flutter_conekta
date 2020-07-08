@@ -1,4 +1,4 @@
-# flutter_conekta_s
+# flutter_conekta_2
 
 A flutter plugin to tokenize cards using [Conekta](https://www.conekta.com/) with WKWebView
 
