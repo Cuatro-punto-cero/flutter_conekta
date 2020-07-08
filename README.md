@@ -1,6 +1,6 @@
-# flutter_conekta
+# flutter_conekta_s
 
-A flutter plugin to tokenize cards using [Conekta](https://www.conekta.com/)
+A flutter plugin to tokenize cards using [Conekta](https://www.conekta.com/) with WKWebView
 
 [![pub package](https://img.shields.io/pub/v/flutter_conekta.svg)](https://pub.dartlang.org/packages/flutter_conekta)
 
@@ -9,7 +9,7 @@ A flutter plugin to tokenize cards using [Conekta](https://www.conekta.com/)
 First, add _flutter_conekta_ as a dependency in [your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
 ```
-flutter_conekta: ^1.0.7+1
+flutter_conekta: ^1.0.7+2
 ```
 
 ### Android
