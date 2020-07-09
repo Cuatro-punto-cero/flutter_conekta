@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ede542ec-910b-46b8-98d3-43e2fe354792" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_conekta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_conekta.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/Conekta.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/Conekta.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +35,9 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.16125" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -66,26 +55,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1835" height="288" key="GridCell.Tab.0.bottom" timestamp="1594243130121">
+    <state x="581" y="217" key="#Project_Structure" timestamp="1594246229741">
       <screen x="43" y="23" width="1877" height="1057" />
     </state>
-    <state width="1835" height="288" key="GridCell.Tab.0.bottom/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594243130121" />
-    <state width="1835" height="288" key="GridCell.Tab.0.center" timestamp="1594243130120">
+    <state x="581" y="217" key="#Project_Structure/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594246229741" />
+    <state width="1835" height="288" key="GridCell.Tab.0.bottom" timestamp="1594246370234">
       <screen x="43" y="23" width="1877" height="1057" />
     </state>
-    <state width="1835" height="288" key="GridCell.Tab.0.center/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594243130120" />
-    <state width="1835" height="288" key="GridCell.Tab.0.left" timestamp="1594243130119">
+    <state width="1835" height="288" key="GridCell.Tab.0.bottom/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594246370234" />
+    <state width="1835" height="288" key="GridCell.Tab.0.center" timestamp="1594246370232">
       <screen x="43" y="23" width="1877" height="1057" />
     </state>
-    <state width="1835" height="288" key="GridCell.Tab.0.left/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594243130119" />
-    <state width="1835" height="288" key="GridCell.Tab.0.right" timestamp="1594243130120">
+    <state width="1835" height="288" key="GridCell.Tab.0.center/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594246370232" />
+    <state width="1835" height="288" key="GridCell.Tab.0.left" timestamp="1594246370231">
       <screen x="43" y="23" width="1877" height="1057" />
     </state>
-    <state width="1835" height="288" key="GridCell.Tab.0.right/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594243130120" />
-    <state x="483" y="190" key="SettingsEditor" timestamp="1594238908108">
+    <state width="1835" height="288" key="GridCell.Tab.0.left/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594246370231" />
+    <state width="1835" height="288" key="GridCell.Tab.0.right" timestamp="1594246370233">
       <screen x="43" y="23" width="1877" height="1057" />
     </state>
-    <state x="483" y="190" key="SettingsEditor/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594238908108" />
+    <state width="1835" height="288" key="GridCell.Tab.0.right/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594246370233" />
+    <state x="483" y="190" key="SettingsEditor" timestamp="1594246224054">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state x="483" y="190" key="SettingsEditor/1920.303.1280.777/43.23.1877.1057@43.23.1877.1057" timestamp="1594246224054" />
     <state x="634" y="308" width="695" height="486" key="find.popup" timestamp="1594234587377">
       <screen x="43" y="23" width="1877" height="1057" />
     </state>
