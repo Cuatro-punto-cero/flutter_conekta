@@ -13,6 +13,7 @@
 #import <Foundation/Foundation.h>
 #import "Token.h"
 #import "Card.h"
+#import <WebKit/WebKit.h>
 
 
 @interface Conekta : NSObject
